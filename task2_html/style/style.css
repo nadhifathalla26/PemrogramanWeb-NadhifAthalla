@@ -68,7 +68,7 @@ input, select {
     width: 100%;
 }
 
-input:hover {
+input:hover, style:hover {
     background-color: #7affce;
     border: none;
 }
